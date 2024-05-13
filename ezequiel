@@ -1,0 +1,10 @@
+git config --global user.name "Canopla"
+git config --global user.email "canoezequiel7802@gmail.com"
+git init 
+git add "Programacion"
+git commit -m "primerpunto"
+git switch 
+git add "Programacioncambio1"
+git commit "segundopunto"
+git switch
+git merge
